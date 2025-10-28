@@ -1,4 +1,5 @@
 1.- Instalar Apache NETBEANS o IntelliJ JETBRAINS
-2.- Descargar el archivo .zip
-3.- Descomprimir archivo y abrir la carpeta en proyectos de Java
-3.- En SRC se encuentran las clases main y clases secundarias
+  NETBEANS: https://netbeans.apache.org/front/main/download/nb27/
+  INTELLIJ: https://www.jetbrains.com/es-es/idea/download/?section=mac
+2.- Descargar el archivo .zip (Dentro del .zip se encuentran los archivos requeridos de la práctica en cuestión)
+3.- 
